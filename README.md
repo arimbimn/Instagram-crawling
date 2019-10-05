@@ -21,6 +21,6 @@ in your own text editor. output of this program is a .json file.
 
 ## Output
 * ![Output from ```InstaData.py``` ](InstaDataOutput.png) 
-* ![Output from ```get_bag_of_word.py``` ](InstaDataOutput.png)
+* ![Output from ```get_bag_of_word.py``` ](BagOfWordOutput.png)
 
 
