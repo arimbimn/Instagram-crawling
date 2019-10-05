@@ -20,6 +20,7 @@ run this
 in your own text editor. output of this program is a .json file. 
 
 ## Output
-![Output from ```InstaData.py``` ](InstaDataOutput.png) 
+* ![Output from ```InstaData.py``` ](InstaDataOutput.png) 
+* ![Output from ```Bag_Of_Word``` ](InstaDataOutput.png)
 
 
