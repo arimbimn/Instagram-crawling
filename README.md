@@ -12,3 +12,6 @@ Please read [INSTALOADER](https://instaloader.github.io/as-module.html) for deta
 
 ## InstaData
 run this ```InstaData.py``` in your own text editor. output of this program is a .json file. 
+
+## Output
+![Output from ```InstaData.py``` ](CrawlingOutput.png)
