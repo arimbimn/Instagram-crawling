@@ -15,10 +15,13 @@ Please read:
 ## InstaData & Bg of Word
 run this 
 * ```InstaData.py``` - to get username/posts/hashtag/likes/comments data
-in your own text editor. output of this program is a .json file. 
+in your own text editor. output of this program is a .csv file. 
 
 ## Output
-* Output json file from ```InstaData.py``` is ```json_output.json```
+* Output csv file from ```InstaData.py``` is ```csv_output_``` 
+* Output json file from ```InstaData.py``` is ```json_output.json``` only if you run this code until finish
+
+
 * ![Output from ```InstaData.py``` ](InstaDataOutput.png) 
 
 
