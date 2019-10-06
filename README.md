@@ -18,7 +18,7 @@ run this
 in your own text editor. output of this program is a .csv file. 
 
 ## Output
-* Output csv file from ```InstaData.py``` is ```csv_output_``` 
+* Output csv file from ```InstaData.py``` is ```csv_output_.csv``` 
 
 
 * ![Output from ```InstaData.py``` ](InstaDataOutput.png) 
