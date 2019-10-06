@@ -8,7 +8,7 @@ Get Instagram username/posts/hashtag/likes/comments data without using Instagram
 Please read: 
 * [Instaloader](https://instaloader.github.io/as-module.html) for details
 * [Sastrawi](https://pypi.org/project/Sastrawi/) for details 
-* [Kamus.md] (https://github.com/kangfend/bahasa/blob/master/bahasa/data/kamus.txt) for details
+* ```kamus.txt``` from (https://github.com/kangfend/bahasa/blob/master/bahasa/data/kamus.txt) for details
 
 ### Prerequisites
 * install python package Instaloader ```pip install instaloader``` 
