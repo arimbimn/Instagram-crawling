@@ -19,7 +19,6 @@ in your own text editor. output of this program is a .csv file.
 
 ## Output
 * Output csv file from ```InstaData.py``` is ```csv_output_``` 
-* Output json file from ```InstaData.py``` is ```json_output.json``` only if you run this code until finish
 
 
 * ![Output from ```InstaData.py``` ](InstaDataOutput.png) 
