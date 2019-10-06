@@ -8,7 +8,7 @@ L = instaloader.Instaloader(max_connection_attempts=0)
 
 # Login session
 username = "arimbimn" #masukkan username ig disini
-password = "meganingrum123" #masukkan password ig disini
+password = "**************" #masukkan password ig disini
 
 L.login(username, password)
 
