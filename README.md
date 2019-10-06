@@ -16,8 +16,8 @@ Please read:
 
 ## InstaData & Bg of Word
 run this 
-* ```InstaData.py``` 
-* ```BagOfWord.py``` 
+* ```InstaData.py``` - to get username/posts/hashtag/likes/comments data
+* ```BagOfWord.py``` - to get 
 in your own text editor. output of this program is a .json file. 
 
 ## Output
