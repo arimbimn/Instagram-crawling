@@ -7,24 +7,19 @@ Get Instagram username/posts/hashtag/likes/comments data without using Instagram
 ### Documentation
 Please read: 
 * [Instaloader](https://instaloader.github.io/as-module.html) for details
-* [Sastrawi](https://pypi.org/project/Sastrawi/) for details 
-* ```kamus.txt``` from (https://github.com/kangfend/bahasa/blob/master/bahasa/data/kamus.txt) for details
 
 ### Prerequisites
 * install python package Instaloader ```pip install instaloader``` 
-* install python package Sastrawi ```pip install sastrawi```
+
 
 ## InstaData & Bg of Word
 run this 
 * ```InstaData.py``` - to get username/posts/hashtag/likes/comments data
-* ```BagOfWord.py``` - to get 
 in your own text editor. output of this program is a .json file. 
 
 ## Output
 * Output json file from ```InstaData.py``` is ```json_output.json```
-* Output json file from ```BagOfWord.py``` is ```json_output_BagOfWord.json```
 * ![Output from ```InstaData.py``` ](InstaDataOutput.png) 
-* ![Output from ```BagOfWord.py``` ](BagOfWordOutput.png)
 
 
 
