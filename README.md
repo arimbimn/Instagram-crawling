@@ -12,7 +12,7 @@ Please read:
 * install python package Instaloader ```pip install instaloader``` 
 
 
-## InstaData & Bg of Word
+## InstaData
 run this 
 * ```InstaData.py``` - to get username/posts/hashtag/likes/comments data
 in your own text editor. output of this program is a .csv file. 
