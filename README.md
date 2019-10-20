@@ -37,9 +37,3 @@ run ```tes_mongo.py``` to access dataset in mongodb
 
 ## Output
 * Output csv file from ```Main.py``` is ```dataframe.csv``` 
-
-
-* ![Output from ```InstaData.py``` ](InstaDataOutput.png) 
-
-
-
