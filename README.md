@@ -42,8 +42,7 @@ run ```BagOfWordMain.py``` to get base form of words of each post. must place ``
 
 ## Output
 * Output csv file from ```Main.py``` is ```dataframe.csv``` 
-* 
-* Output from mongo db is you can show your .json data 
+*  
 * Output csv file from ```BagOfWord.py``` is ```csv_output_.csv```
 
 
