@@ -1,8 +1,8 @@
 # Instagram-crawling
 This program is :
 * how to access the list of level 2 followers from the target account data using Breadth First Search (BFS) implementation.
-* find most likes and most tag in post
-* saving .json data above into mongodb 
+* saving .json data above into mongodb
+* Find Most Likes and Count How Many Private Account 
 * circumvent instagram rate limit
 
 
@@ -28,8 +28,8 @@ Please read:
 save both of them into same directory ```insta.py``` & ```Main.py```
 * run this  ```Main.py``` - to get username/posts/hashtag/likes/comments data in your own text editor. output of this program is a .csv file.
 
-#### Find Most Likes and Most Tag in Post
-
+#### Find Most Likes and Count How Many Private Account
+* run ```creativity.py``` 
 
 #### MongoDB
 run ```tes_mongo.py``` to access dataset in mongodb
