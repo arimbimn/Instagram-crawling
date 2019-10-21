@@ -29,11 +29,12 @@ save both of them into same directory ```insta.py``` & ```Main.py```
 * run this  ```Main.py``` - to get username/posts/hashtag/likes/comments data in your own text editor. output of this program is a .csv file.
 
 #### Find Most Likes and Count How Many Private Account
-* run ```creativity.py``` 
+* run ```creativity.py``` must same directory with ```insta.py``` & ```Main.py```
 
 #### MongoDB
-run ```tes_mongo.py``` to access dataset in mongodb
+run ```tes_mongo.py``` to access dataset in mongodb. must same directory with ```insta.py``` & ```Main.py```
 
 
 ## Output
-* Output csv file from ```Main.py``` is ```dataframe.csv``` 
+* Output csv and json file from ```Main.py``` is ```dataframe.csv``` & ```json_output.json```
+* Outout csv file from ```BagOfWordMain.py``` is ```csv_output_.csv```
