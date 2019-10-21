@@ -12,7 +12,7 @@ Get Instagram username/posts/hashtag/likes/comments data using Breadth First Sea
 ### Documentation
 Please read: 
 * [Instaloader](https://instaloader.github.io/as-module.html) for details about instagram crawling data
-* [Instaloader](https://pypi.org/project/instaloader/)
+* [Instaloader](https://pypi.org/project/instaloader/) for details
 * [pandas] (https://pypi.org/project/pandas/) for details
 * [mongo guide install](https://www.geeksforgeeks.org/guide-install-mongodb-python-windows/) or read [mongo python driver](https://www.w3resource.com/mongodb/mongodb-python-driver.php)
 * [pymongo](https://pypi.org/project/pymongo/) for details about tools for interacting with MongoDB database from Python 
